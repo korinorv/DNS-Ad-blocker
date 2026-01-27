@@ -4,7 +4,7 @@ A serverless DNS-level ad blocker that runs on Cloudflare's edge network. This b
 
 ## Features
 
-- Real-time domain filtering with 50+ blocked ad/tracker domains
+- Real-time domain filtering with 70,000+ blocked ad/tracker domains
 - Live dashboard to test domains and view statistics  
 - REST API for programmatic access
 - Zero cost infrastructure using Cloudflare's free tier
@@ -12,7 +12,7 @@ A serverless DNS-level ad blocker that runs on Cloudflare's edge network. This b
 
 ## Live Demo
 
-[Ad-Block](https://dns-adblock.indresik.workers.dev/)
+[DNS-Shield](https://dns-adblock.indresik.workers.dev/)
 
 Visit the dashboard to test domains and see the system in action.
 
@@ -27,7 +27,7 @@ https://dns-adblock.indresik.workers.dev/api/check?domain=doubleclick.net
 
 - Written in modern JavaScript
 
-- Blocks 50+ advertising and tracking domains
+- Blocks 70,000+ advertising and tracking domains
 
 - Zero infrastructure costs - runs entirely on free tier
 
