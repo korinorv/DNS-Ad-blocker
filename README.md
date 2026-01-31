@@ -9,7 +9,7 @@ A serverless DNS-level ad blocker that runs on Cloudflare's edge network. This b
 - REST API for programmatic access
 - Zero cost infrastructure using Cloudflare's free tier
 - Deployed globally with sub-10ms response times
-- Easily added to any browser as a Custom DNS
+- Easily added to any browser or mobile device as a Custom DNS
 
 ## Live Demo
 
